@@ -1,6 +1,6 @@
-# 🧠 Management Consultant AI Skill for Claude
+# 🧠 MBB Management Consultant AI Skill for Claude
 
-> **A free, open-source AI skill that turns Claude into a elite-grade management consultant** — for students, MBA candidates, aspiring and working consultants, business professionals, and anyone who wants to think and communicate at the highest level.
+> **A free, open-source AI skill that turns Claude into a McKinsey / Bain / BCG-caliber management consultant** — for students, MBA candidates, working consultants, business professionals, and anyone who wants to think and communicate at the highest level.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Compatible](https://img.shields.io/badge/Claude-Compatible-blueviolet)](https://claude.ai)
@@ -11,7 +11,7 @@
 
 ## What This Is
 
-This repository contains a **complete, production-grade consulting skill** for [Claude](https://claude.ai) — Anthropic's AI assistant. When installed, it transforms Claude into a senior-level strategy consultant operating at the Principal/Director level, with 9–13 years of cross-industry experience baked in.
+This repository contains a **complete, production-grade consulting skill** for [Claude](https://claude.ai) — Anthropic's AI assistant. When installed, it transforms Claude into a senior-level MBB consultant (McKinsey / Bain / BCG) operating at the Principal/Director level, with 9–13 years of cross-industry experience baked in.
 
 This is not a simple prompt. It is a **structured knowledge system** with 80+ reference files covering every dimension of high-performance consulting work — from MECE issue trees and Pyramid Principle communication to due diligence, post-merger integration, GenAI enterprise strategy, and case interview coaching.
 
@@ -24,7 +24,7 @@ This is not a simple prompt. It is a **structured knowledge system** with 80+ re
 | Audience | How You Benefit |
 |----------|----------------|
 | **MBA students & candidates** | Practice case interviews, learn consulting frameworks, build structured thinking from scratch |
-| **Aspiring strategy consultants** | Supercharge your prep — sharper issue trees, structured communication, faster synthesis |
+| **MBB / Big 4 consultants** | Supercharge your workflow — faster decks, sharper issue trees, better synthesis |
 | **Business professionals** | Apply consulting-grade thinking to your real problems without hiring a firm |
 | **Founders & operators** | Structure strategy, diagnose profitability issues, build board-ready narratives |
 | **AI / Claude enthusiasts** | Fork, extend, and build your own specialist skills on top of this architecture |
@@ -77,13 +77,12 @@ Once installed, Claude can assist you with:
 - DuPont Analysis, Unit Economics (CAC/LTV), DCF basics
 - Profitability frameworks, Kotter's 8 Steps, RACI, Three Horizons
 
-### Case Interview & Competition Prep
-- Full case formats used at top strategy firms
-- Practice cases across all types: profitability, market entry, M&A, pricing, growth
+### Case Interview Coaching
+- Full McKinsey / Bain / BCG case formats
+- Practice cases across all case types (profitability, market entry, M&A, pricing, growth)
 - Scoring rubrics and structured feedback
-- Personal Experience Interview (PEI) preparation with STAR coaching
-- Math drills, guesstimation, and Fermi estimation
-- Case competition strategy: hypothesis framing, recommendation storytelling, Q&A prep
+- PEI (Personal Experience Interview) preparation with STAR coaching
+- Math and estimation drills
 
 ### Communication & Deliverables
 - **Pyramid Principle** — lead with the answer, support with evidence
@@ -126,14 +125,14 @@ You need access to [Claude](https://claude.ai) — free tier works, Pro recommen
 See **[INSTALL.md](./INSTALL.md)** for the full setup guide. The short version:
 
 1. Download `skill/SKILL.md` and the entire `skill/references/` folder
-2. Follow the installation steps in `INSTALL.md`
+2. Follow the Cowork/Claude Code installation steps in `INSTALL.md`
 3. Start a new conversation and type: *"Act as my management consultant"*
 
 ### 3. Try These Prompts
 ```
 "Help me structure a profitability analysis for a $500M retail chain whose margins have been declining."
 
-"I have a case interview at a top strategy firm next week. Run me through a market entry case."
+"I have a case interview at McKinsey next week. Run me through a market entry case."
 
 "Size the US electric vehicle charging market from first principles."
 
@@ -142,15 +141,13 @@ See **[INSTALL.md](./INSTALL.md)** for the full setup guide. The short version:
 "Write me an executive summary for a cost reduction initiative in the logistics function."
 
 "I need to present a go-to-market strategy to the board. Help me structure the narrative."
-
-"Coach me through a case competition — I have 30 minutes to crack a growth strategy problem."
 ```
 
 ---
 
 ## The Consulting Mindset (Why This Matters)
 
-The world's highest-paid problem-solvers aren't just smart. They operate with a **specific cognitive architecture** that most people never learn:
+The world's highest-paid problem-solvers — McKinsey, Bain, BCG consultants — aren't just smart. They operate with a **specific cognitive architecture** that most people never learn:
 
 - They **lead with the answer**, not the analysis
 - They think in **structures**, not lists
@@ -160,7 +157,7 @@ The world's highest-paid problem-solvers aren't just smart. They operate with a 
 - They quantify **everything** — insight without numbers is opinion
 - They think in **second-order effects** — what happens after the first move?
 
-This skill encodes that architecture. It's not a chatbot that knows about consulting. It **is** a consultant — one you can access 24/7 for free.
+This skill encodes that architecture. It's not a chatbot that knows about consulting. It IS a consultant — one you can access 24/7 for free.
 
 ---
 
@@ -189,7 +186,7 @@ See **[CASE-STUDIES.md](./CASE-STUDIES.md)** for 3 fully worked cases with promp
 2. **New Frontier** — Market entry strategy for a European athletic apparel brand entering the US
 3. **The Big Question** — Market sizing for the US pet insurance market (PE due diligence)
 
-Each case is structured, analyzed, and solved exactly how a senior strategy consultant would approach it.
+Each case shows exactly how a McKinsey consultant would structure it, analyze it, and recommend.
 
 ---
 
@@ -210,25 +207,13 @@ Please open an issue or submit a PR. All contributions will be reviewed for qual
 
 MIT License — free to use, fork, adapt, and distribute. See `LICENSE` for details.
 
----
-
-## ⭐ If This Helped You
-
-If this skill helped you crack a case interview, ace a competition, structure a tough business problem, or simply think more clearly — it did its job.
-
-**Here's how you can pay it forward:**
-
-- ⭐ **Star this repo** — it helps others discover it
-- 🔁 **Share it** — with your MBA cohort, prep groups, LinkedIn network, or anyone grinding toward a consulting career
-- 🗣️ **Spread the word** — the more people who find this, the more structured thinkers the world gets
-
-*Knowledge this powerful shouldn't be locked behind $500/hour fees. Pass it on.*
+If this helped you land a consulting offer, ace a board presentation, or think through a hard problem — that's the point. Pass it on.
 
 ---
 
 ## Keywords (For Discovery)
 
-management consulting · consulting frameworks · MECE · issue tree · Pyramid Principle · case interview prep · MBA · strategy consulting · hypothesis-driven · 80/20 · market sizing · Fermi estimation · Porter's Five Forces · profitability analysis · market entry · M&A due diligence · post-merger integration · Claude AI · Claude skill · Anthropic Claude · AI consultant · structured thinking · executive communication · consulting career · BCG matrix · Ansoff matrix · McKinsey 7S · value chain analysis · SCR framework · storylining · STAR method · PEI · personal experience interview · consulting case practice · business frameworks · strategic analysis · business problem solving · management consulting AI · case competition prep · top strategy firm interview · consulting offer
+management consulting · McKinsey · Bain · BCG · MBB · consulting frameworks · MECE · issue tree · Pyramid Principle · case interview prep · MBA · strategy consulting · hypothesis-driven · 80/20 · market sizing · Fermi estimation · Porter's Five Forces · profitability analysis · market entry · M&A due diligence · post-merger integration · Claude AI · Claude skill · Anthropic Claude · AI consultant · structured thinking · executive communication · consulting career · BCG matrix · Ansoff matrix · McKinsey 7S · value chain analysis · SCR framework · storylining · STAR method · PEI · personal experience interview · consulting case practice · business frameworks · strategic analysis · business problem solving · management consulting AI
 
 ---
 
