@@ -429,4 +429,16 @@ Two additional case studies outside the M&A theme also live in `case-studies/`: 
 | Satyam Computer Services | IT Services | Multi-year accounting fraud; fabricated cash balance never independently verified; auditor failure | `case-studies/gov-satyam-accounting-fraud.md` |
 | IL&FS | Financial Services (NBFC) | Asset-liability duration mismatch inside a "quasi-sovereign" shadow bank; rating-agency failure; systemic contagion | `case-studies/gov-ilfs-shadow-bank-collapse.md` |
 | Kingfisher Airlines | Aviation | Leverage and governance failure; willful default; loan evergreening by lenders | `case-studies/gov-kingfisher-willful-default.md` |
-| Harshad Mehta / 1992 securities scam | Banking & Capital Markets | Systemic market manipulation via an interbank settlement loophole; became the founding shock for modern SEBI, NSE, and dematerialization | `case-st
+| Harshad Mehta / 1992 securities scam | Banking & Capital Markets | Systemic market manipulation via an interbank settlement loophole; became the founding shock for modern SEBI, NSE, and dematerialization | `case-studies/gov-harshad-mehta-market-manipulation.md` |
+| Insider trading & front-running (Hindustan Lever–Tata Tea 1998; Axis Mutual Fund 2022) | Capital Markets / Asset Management | Information-asymmetry abuse by a corporate insider and by a fiduciary, 24 years apart — same failure, faster detection | `case-studies/gov-insider-trading-and-front-running-india.md` |
+
+Read `references/due-diligence-deep-dive.md` → *Governance & Fraud Red Flags* for the pattern checklist distilled from these five cases.
+
+### Specialist Operations & Value Delivery
+| Methodology | When to Read | Reference |
+|-------------|-------------|-----------|
+| Cost Restructuring Anatomy | Cost anatomy (7 categories); diagnostic from P&L to cost driver to activity level; bottom-up savings build with confidence tiering; Phase 1/2/3 sequencing; one-time cost estimation; savings tracker and realization governance | `references/cost-restructuring-anatomy.md` |
+| Pricing Architecture for Clients | 5-lens pricing diagnostic (waterfall, customer segmentation, architecture, sales behavior, competitive intelligence); 5 architecture design decisions (value metric, tier structure, discount authority, value communication, governance); implementation sequencing | `references/pricing-architecture-consulting.md` |
+| Technology Vendor Selection | 5-phase selection process (requirements, market scan, RFP, evaluation, commercial negotiation); client-designed demo scripts; independent reference sourcing; commercial negotiation including rate escalation caps and data portability rights; build vs. buy | `references/technology-vendor-selection.md` |
+
+**Usage pattern**: These files cover practitioner-grade operational depth for specific engagement types. Read the relevant file at the start of any engagement where that methodology applies.
