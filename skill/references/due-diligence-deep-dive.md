@@ -314,6 +314,20 @@ CDD focuses on **top-line** sustainability and growth:
 - **Community Conflict:** Significant community opposition; license to operate at risk
 - **Supply Chain Risk:** Heavy exposure to high-ESG-risk geographies; climate-vulnerable suppliers
 
+### Governance & Fraud Red Flags
+
+- **Unverified Cash:** Bank/cash balances confirmed only via management-provided statements, never independently with the bank itself — the single most under-verified "hard" number on a balance sheet
+- **Asset-Liability Duration Mismatch:** Short-term wholesale funding backing long-tenor assets inside a lender, NBFC, or leasing counterparty — invisible from the credit rating alone
+- **Heavy Promoter/Founder Share Pledging:** Above ~30-40% of holding pledged signals personal leverage against company stock — a common precursor to forced selling or governance pressure
+- **Related-Party Webs:** Lending, leasing, or services transactions between the target and founder-controlled entities that aren't arm's-length priced
+- **Use-of-Proceeds Drift:** Loan or capital-raise proceeds not traceable to their stated purpose — the exact fact pattern regulators later classify as willful default or fund diversion
+- **Unexplained Entity-Count Growth:** Dozens of subsidiaries/JVs/SPVs with unclear commercial rationale — complexity that primarily obscures cross-obligations rather than serving genuine business need
+- **Rubber-Stamp Audit Signals:** Long auditor tenure without rotation, combined with an opinion that never queries a rapidly growing cash balance or margin profile that's smoother than peers'; an unqualified opinion is evidence of an audit process, not independent verification
+- **Evergreening:** A lender restructuring or extending credit repeatedly without a credible, independently validated turnaround plan — delays loss recognition rather than preventing the loss
+- **Trading-Pattern Correlation:** Personal or connected-party trades that consistently precede an institution's own large orders — the signature pattern of front-running, now detectable via real-time surveillance rather than only after the fact
+
+Worked end-to-end with real figures and regulatory outcomes in `case-studies/gov-satyam-accounting-fraud.md`, `case-studies/gov-ilfs-shadow-bank-collapse.md`, `case-studies/gov-kingfisher-willful-default.md`, and `case-studies/gov-insider-trading-and-front-running-india.md`.
+
 ---
 
 ## 7. PE vs. Strategic Acquirer Due Diligence
@@ -562,37 +576,4 @@ Most large acquisitions run CDD + FDD + TDD + ODD in parallel:
 **$250M Mid-Market Deal (Parallel Workstreams):**
 - CDD: $200k, 10 weeks
 - FDD: $250k, 10 weeks
-- TDD: $150k, 8 weeks
-- ODD: $120k, 8 weeks
-- **Total: ~$720k, 10-week critical path**
-
-**Benchmarking:** CDD typically 25–30% of total, FDD 30–35%, TDD 15–20%, ODD 12–18%.
-
-### Red Flag Detection Rates
-
-Historical data from advisor engagements:
-
-| Red Flag Category | Detection Rate | Typical Impact |
-|---|---|---|
-| **Significant Revenue Concentration** | 35–45% | 10–20% valuation discount |
-| **Margin Deterioration/Sustainability Risk** | 40–50% | 15–30% valuation discount |
-| **Working Capital Surprise** | 25–35% | $5M–$25M+ cash impact post-close |
-| **Technical Debt/IP Risk** | 30–45% | Capex requirement of $1M–$10M+ over 2 years |
-| **Customer Retention/Churn Risk** | 50–60% | 10–15% revenue decline post-close (if not integrated well) |
-| **Supply Chain/Operational Inefficiency** | 40–55% | 2–5% margin improvement opportunity |
-| **Regulatory/Compliance Issues** | 20–30% | $2M–$20M+ remediation cost |
-
----
-
-## Key Takeaways for Practitioners
-
-1. **CDD is valuation intelligence:** Every $1 of risk identified can inform $5–$10 of valuation adjustment.
-2. **Red flag investigation beats checkboxes:** Deep-dive on top 3–5 risks; confirm with primary research.
-3. **NRR and CAC payback are gold standards:** For B2B software, NRR >100% and CAC payback <12 months indicate quality.
-4. **Quality of earnings matters more than headline EBITDA:** Scrutinize every add-back; conservative FDD saves money later.
-5. **Tech DD increasingly material:** Software/IP now core to valuation for most acquirers; allocate accordingly.
-6. **ESG red flags are real:** Regulatory fines, litigation, supply chain risk are quantifiable and growing.
-7. **PE vs. Strategic due diligence is fundamentally different:** Align workplan scope to buyer type and deal thesis.
-8. **Vendor DD extends beyond deal close:** Ongoing contract management and monitoring reduce operational surprises.
-9. **Parallel workstreams compress timeline:** 10–12 week due diligence cycles standard for $100M–$500M deals.
-10. **Integration planning starts in due diligence:** Best acquirers use DD to inform post-close 100-day plans and synergy realization.
+- TDD: $150k, 8 we

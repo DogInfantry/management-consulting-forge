@@ -235,6 +235,7 @@ US companies operating internationally are subject to the Foreign Corrupt Practi
 - Competitive landscape: Strong local conglomerates (Tata, Reliance, Adani) + domestic startups (Flipkart, Zomato, Paytm)
 - Infrastructure rapidly improving: NHAI highway buildout, dedicated freight corridors, logistics parks
 - **Key challenge**: Distribution reach (600,000+ villages), regulatory navigation, talent retention as opportunities multiply
+- **Historical anchor**: Today's openness traces to an acute shock, not gradual policy evolution. In the 1991 Balance of Payments crisis, forex reserves fell to ~$1.2B — barely two weeks of import cover — forcing RBI to airlift gold reserves to the Bank of England and the Union Bank of Switzerland as loan collateral. That crisis forced the LPG reforms (Liberalization, Privatization, Globalization), which is the reason foreign entrants could enter the Indian market at all. The transferable point for market-entry timing: today's regulatory openness in an emerging market is frequently a policy choice made under duress a generation ago, not a stable equilibrium — it can tighten again under a comparable shock, so an entry thesis built on "the market has always been open" deserves a gut-check against what forced it open in the first place.
 
 ### China
 **Why it matters**: ~1.4B people, 2nd-largest economy, manufacturing powerhouse, massive consumer market; but also increasingly challenging for Western companies
@@ -292,14 +293,4 @@ As you expand globally, the operating model question becomes critical: How much 
 
 **Federated model**: Markets operate autonomously. Good for: local agility, talent empowerment. Bad for: inconsistency, duplication, inability to leverage scale.
 
-**Hub-and-spoke model**: Global centers of excellence for strategy, brand, technology, finance; regional hubs for adaptation and coordination; local countries for execution. This is the MBB recommendation for most large multinationals.
-
-### The Portfolio Rebalancing Question
-
-Periodically ask: Is our geographic portfolio right?
-- Are we over-indexed in slow-growth developed markets?
-- Under-invested in high-growth EM with real ability to win?
-- Do we have too many markets to manage well (common trap — better to be #1 in 10 markets than #7 in 30)?
-- Where is our ROIC highest? Where are we value-destroying?
-
-**Portfolio simplification**: Exiting markets is painful but often right. Criteria: Can we realistically reach top-3 position? Is the investment required proportionate to the prize? Are there structural reasons we can't win (local competitor moat, regulatory disadvantage)?
+**Hub-and-spoke model**: Global center
